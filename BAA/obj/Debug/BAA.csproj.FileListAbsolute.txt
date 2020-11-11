@@ -1,0 +1,20 @@
+C:\repositorios\repository\Polleria\BAA\bin\Debug\BAA.exe.config
+C:\repositorios\repository\Polleria\BAA\bin\Debug\BAA.exe
+C:\repositorios\repository\Polleria\BAA\bin\Debug\BAA.pdb
+C:\repositorios\repository\Polleria\BAA\obj\Debug\BAA.csprojAssemblyReference.cache
+C:\repositorios\repository\Polleria\BAA\obj\Debug\BAA.Form1.resources
+C:\repositorios\repository\Polleria\BAA\obj\Debug\BAA.Properties.Resources.resources
+C:\repositorios\repository\Polleria\BAA\obj\Debug\BAA.csproj.GenerateResource.cache
+C:\repositorios\repository\Polleria\BAA\obj\Debug\BAA.csproj.CoreCompileInputs.cache
+C:\repositorios\repository\Polleria\BAA\obj\Debug\BAA.exe
+C:\repositorios\repository\Polleria\BAA\obj\Debug\BAA.pdb
+C:\repositorios\repositorio polleria\Polleria\BAA\bin\Debug\BAA.exe.config
+C:\repositorios\repositorio polleria\Polleria\BAA\bin\Debug\BAA.exe
+C:\repositorios\repositorio polleria\Polleria\BAA\bin\Debug\BAA.pdb
+C:\repositorios\repositorio polleria\Polleria\BAA\obj\Debug\BAA.csprojAssemblyReference.cache
+C:\repositorios\repositorio polleria\Polleria\BAA\obj\Debug\BAA.Form1.resources
+C:\repositorios\repositorio polleria\Polleria\BAA\obj\Debug\BAA.Properties.Resources.resources
+C:\repositorios\repositorio polleria\Polleria\BAA\obj\Debug\BAA.csproj.GenerateResource.cache
+C:\repositorios\repositorio polleria\Polleria\BAA\obj\Debug\BAA.csproj.CoreCompileInputs.cache
+C:\repositorios\repositorio polleria\Polleria\BAA\obj\Debug\BAA.exe
+C:\repositorios\repositorio polleria\Polleria\BAA\obj\Debug\BAA.pdb

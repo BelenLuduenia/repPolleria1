@@ -1,0 +1,80 @@
+C:\repositorios\repository\Polleria\Polleria\bin\Debug\Polleria.exe.config
+C:\repositorios\repository\Polleria\Polleria\bin\Debug\Polleria.exe
+C:\repositorios\repository\Polleria\Polleria\bin\Debug\Polleria.pdb
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.csprojAssemblyReference.cache
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.Contraseña.resources
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.FrmInicio.resources
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.Properties.Resources.resources
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.csproj.GenerateResource.cache
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.csproj.CoreCompileInputs.cache
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.exe
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.pdb
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.Clientes.resources
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.Facturación.resources
+C:\repositorios\repository\Polleria\Polleria\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.csproj.CopyComplete
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.CPF.resources
+C:\repositorios\repository\Polleria\Polleria\bin\Debug\BAA.exe
+C:\repositorios\repository\Polleria\Polleria\bin\Debug\BAA.pdb
+C:\repositorios\repository\Polleria\Polleria\bin\Debug\BAA.exe.config
+C:\repositorios\repository\Polleria\Polleria\obj\Debug\Polleria.Productos.resources
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.csprojAssemblyReference.cache
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.Contraseña.resources
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.Clientes.resources
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.Facturación.resources
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.FrmInicio.resources
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.Productos.resources
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.Properties.Resources.resources
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.CPF.resources
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.csproj.GenerateResource.cache
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.csproj.CoreCompileInputs.cache
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.exe
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.pdb
+C:\repositorios\repositorio polleria\Polleria\Polleria\bin\Debug\Polleria.exe.config
+C:\repositorios\repositorio polleria\Polleria\Polleria\bin\Debug\Polleria.exe
+C:\repositorios\repositorio polleria\Polleria\Polleria\bin\Debug\Polleria.pdb
+C:\repositorios\repositorio polleria\Polleria\Polleria\bin\Debug\BAA.exe
+C:\repositorios\repositorio polleria\Polleria\Polleria\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\repositorios\repositorio polleria\Polleria\Polleria\bin\Debug\BAA.pdb
+C:\repositorios\repositorio polleria\Polleria\Polleria\bin\Debug\BAA.exe.config
+C:\repositorios\repositorio polleria\Polleria\Polleria\obj\Debug\Polleria.csproj.CopyComplete
+C:\Polleria\Polleria\obj\Debug\Polleria.csprojAssemblyReference.cache
+C:\Polleria\Polleria\obj\Debug\Polleria.Contraseña.resources
+C:\Polleria\Polleria\obj\Debug\Polleria.Clientes.resources
+C:\Polleria\Polleria\obj\Debug\Polleria.Facturación.resources
+C:\Polleria\Polleria\obj\Debug\Polleria.FrmInicio.resources
+C:\Polleria\Polleria\obj\Debug\Polleria.Productos.resources
+C:\Polleria\Polleria\obj\Debug\Polleria.Properties.Resources.resources
+C:\Polleria\Polleria\obj\Debug\Polleria.CPF.resources
+C:\Polleria\Polleria\obj\Debug\Polleria.csproj.GenerateResource.cache
+C:\Polleria\Polleria\obj\Debug\Polleria.csproj.CoreCompileInputs.cache
+C:\Polleria\Polleria\obj\Debug\Polleria.exe
+C:\Polleria\Polleria\obj\Debug\Polleria.pdb
+C:\Polleria\Polleria\bin\Debug\Polleria.exe.config
+C:\Polleria\Polleria\bin\Debug\Polleria.exe
+C:\Polleria\Polleria\bin\Debug\Polleria.pdb
+C:\Polleria\Polleria\bin\Debug\BAA.exe
+C:\Polleria\Polleria\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Polleria\Polleria\bin\Debug\BAA.pdb
+C:\Polleria\Polleria\bin\Debug\BAA.exe.config
+C:\Polleria\Polleria\obj\Debug\Polleria.csproj.CopyComplete
+C:\repositorios\repPolleria\Polleria\bin\Debug\Polleria.exe.config
+C:\repositorios\repPolleria\Polleria\bin\Debug\Polleria.exe
+C:\repositorios\repPolleria\Polleria\bin\Debug\Polleria.pdb
+C:\repositorios\repPolleria\Polleria\bin\Debug\BAA.exe
+C:\repositorios\repPolleria\Polleria\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\repositorios\repPolleria\Polleria\bin\Debug\BAA.pdb
+C:\repositorios\repPolleria\Polleria\bin\Debug\BAA.exe.config
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.csprojAssemblyReference.cache
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.Contraseña.resources
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.Clientes.resources
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.Facturación.resources
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.FrmInicio.resources
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.Productos.resources
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.Properties.Resources.resources
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.CPF.resources
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.csproj.GenerateResource.cache
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.csproj.CoreCompileInputs.cache
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.csproj.CopyComplete
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.exe
+C:\repositorios\repPolleria\Polleria\obj\Debug\Polleria.pdb
